@@ -10,8 +10,7 @@
 
 
 ## The relationship between TA amplitude and Saturation level (Fig. 2)
-* Run simulation file 'TA_Source_Eval.m' with COMSOL-Matlab client. The workspace is automatically saved as 'SNR.mat' and 'Q3.mat' in the directory. 
-* Run 'Sand_Saturation.m' to get the figures presented in Fig. 2. 
+* Run 'Sand_Saturation.m' to get the figures presented in Fig. 2. The COMSOL-MATLAB workspace is saved as 'SRC.mat' for discretized source strength and 'Q3.mat' for the volume-averaged source strength.  
   <p align="center">
   <img src="./Data_Archive/Sand Saturation/Fig. 2.1.jpg" width="30%"> 
   </p>
